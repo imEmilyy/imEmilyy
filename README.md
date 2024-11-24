@@ -1,7 +1,7 @@
 **I'm Emily**!! :3  
-I'm an Italian girl who programs in Python, HTML/CSS/JAVASCRIPT, C, a little bit of C# and GDScript 🐙
-I'm learning C++ rn ☂️
-My biggest dream is to create videogames 🩷
+I'm an Italian girl who programs in Python, HTML/CSS/JAVASCRIPT, C, a little bit of C# and GDScript 🐙  
+I'm learning C++ rn ☂️  
+My biggest dream is to create videogames 🩷  
 
 (and i'm usually eepy)
 <!---
