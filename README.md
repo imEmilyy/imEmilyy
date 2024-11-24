@@ -1,11 +1,10 @@
 
 # I'm Emily!! :3  
-I'm an Italian girl who programs in:
+I'm an Italian girl who programs in 🐙:
 - Python  
 - HTML/CSS/JAVASCRIPT  
 - C   
-- a little bit of C# and GDScript  
-🐙   
+- a little bit of C# and GDScript
 ## Goals:
 I'm learning C++ rn ☂️    
 My biggest dream is to create videogames 🩷  
