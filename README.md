@@ -1,5 +1,5 @@
 
-## I'm Emily!! :3  
+# I'm Emily!! :3  
 I'm an Italian girl who programs in:
 - Python  
 - HTML/CSS/JAVASCRIPT  
